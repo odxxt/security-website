@@ -10,7 +10,7 @@ A unique, interactive portfolio website designed to showcase projects and skills
 
 ## ✨ Live Demo
 
-Check out the live version here: **[odxxt.com](https://odxxt.com/)** 
+Check out the live version here: **[alodat.me](https://alodat.me/)** 
 
 ---
 
