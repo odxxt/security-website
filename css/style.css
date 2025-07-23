@@ -489,7 +489,7 @@ button:hover {
     white-space: pre;
     line-height: 1.2;
     margin: 5px 0 15px;
-    font-size: 13px;
+    font-size: 12px;
     text-align: center;
     background: linear-gradient(90deg, #ff8a00, #e52e71, #30cfd0, #00c3ff);
     -webkit-background-clip: text;
